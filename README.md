@@ -1,2 +1,2 @@
-# DSA-java
-DSA practice in Java — topic wise solutions
+# DSA (java)
+DSA practice in Java: topic wise solutions
